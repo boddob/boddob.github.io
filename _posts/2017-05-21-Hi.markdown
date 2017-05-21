@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Hi"
+date:   2017-05-21 13:12:14 +0530
+categories: jekyll update
+---
+
+This site is hopefully how I'll learn some web stuff, and maybe a portfolio of sorts some day.
+
+{% highlight C %}
+For now,
+Have some
+Cake
+{% endhighlight %}
+
